@@ -1,2 +1,5 @@
 hello
 
+hello
+
+git reset for mixed option
